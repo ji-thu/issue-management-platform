@@ -1,0 +1,11 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: issue_management_db
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: issue_management
+    ports:
+      - "5432:5432"
