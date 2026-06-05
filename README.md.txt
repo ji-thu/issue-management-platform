@@ -217,15 +217,21 @@ Live Application
 
 Frontend URL:
 
-TO_BE_ADDED_AFTER_DEPLOYMENT
+https://issue-management-platform-1.onrender.com
 
 Backend URL:
 
-TO_BE_ADDED_AFTER_DEPLOYMENT
+
+https://issue-management-platform.onrender.com
+
 
 Application URL:
 
-TO_BE_ADDED_AFTER_DEPLOYMENT
+https://issue-management-platform-1.onrender.com/issues
+
+Database URL:
+
+postgresql://neondb_owner:npg_VaHSdgq0e2wI@ep-cool-scene-ap6znz8x.c-7.us-east-1.aws.neon.tech/neondb?sslmode=require
 
 --------------------------------------------
 
